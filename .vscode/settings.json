@@ -3,7 +3,7 @@
   "editor.tabSize": 2,
   "files.trimTrailingWhitespace": false,
   "files.exclude": {
-    "node_modules/": true,
+    "node_modules/": false,
     ".nyc_output/": true,
     "**/*.js": {
       "when": "$(basename).ts"
