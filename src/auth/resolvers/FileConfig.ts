@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-import { AuthConfig } from '@lucaselb/node-sp-auth-config';
+import { AuthConfig } from 'node-sp-auth-config';
 import { IAuthResolver } from '../IAuthResolver';
 import { IAuthResponse } from '../IAuthResponse';
 import { FilesHelper } from '../../utils/FilesHelper';
