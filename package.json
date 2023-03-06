@@ -1,6 +1,6 @@
 {
   "version": "3.0.7",
-  "name": "node-sp-auth",
+  "name": "@sridhar/node-sp-auth",
   "author": "Sergei Sergeev <sergeev.srg@gmail.com> (https://github.com/s-KaiNet)",
   "description": "Unattended SharePoint http authentication with nodejs",
   "main": "./lib/src/index.js",
