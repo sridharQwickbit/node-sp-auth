@@ -83,7 +83,6 @@
     "jsonwebtoken": "^9.0.0",
     "lodash.template": "4.5.0",
     "node-ntlm-client": "0.1.2",
-    "node-sp-auth-config": "^2.9.4",
     "xmldoc": "1.1.2"
   }
 }
